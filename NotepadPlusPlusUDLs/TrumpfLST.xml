@@ -1,0 +1,64 @@
+<NotepadPlus>
+    <UserLang name="Trumpf LST" ext="lst ekd" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="no" allowFoldOfComments="yes" foldCompact="yes" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments">00; 01 02 03 04</Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2"></Keywords>
+            <Keywords name="Numbers, extras1"></Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2"></Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1"></Keywords>
+            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Folders in code1, open"></Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close"></Keywords>
+            <Keywords name="Folders in code2, open">BEGIN_CONSUMPTION_TIMES BEGIN_EINRICHTEPLAN_INFO BEGIN_FERTIGUNG_AUFTRAG_TMP BEGIN_GLOBAL_DATASET BEGIN_LABEL_DATA BEGIN_LASER_CUT_DYNAMIC_ADJUSTMENT BEGIN_LASER_CUT_INFO BEGIN_LASER_CUT_UNLOAD_DATA BEGIN_LEAD_IN BEGIN_LTT_CALLS BEGIN_LTT_STAMM BEGIN_MACHINE_LOAD_DATA BEGIN_MACHINE_UNLOAD_DATA BEGIN_MAGAZINE_POSITION_PROPERTIES BEGIN_MICROJOINT BEGIN_PART_UNLOAD BEGIN_PARTORDER_IN_PRODORDER BEGIN_PARTS_IN_PROGRAM BEGIN_PARTS_IN_PROGRAM_POS BEGIN_PARTS_PALLET_DATA BEGIN_PARTS_UNLOAD_DATA BEGIN_PIN_UNLOAD_DATA BEGIN_PROGRAM_INFORMATION BEGIN_PROGRAM_PROPERTIES BEGIN_PROGRAMM BEGIN_PTT BEGIN_PUNCHING_TOOL_USAGE BEGIN_SCP BEGIN_SHEET_LOAD BEGIN_SHEET_LOAD_DATA BEGIN_SHEET_MEASURE BEGIN_SHEET_PROCESS_INFORMATION BEGIN_SHEET_REPOSIT BEGIN_SHEET_TECH BEGIN_SHEET_UNLOAD BEGIN_SUCTION_CUP_CONFIGURATION BEGIN_TOOL_MEASURE BEGIN_TOOL_MOUNT_DATA BEGIN_TOPS_DATA BEGIN_TUBE_CORNER BEGIN_TUBE_END_LEFT BEGIN_TUBE_END_RIGHT BEGIN_TUBE_LOAD BEGIN_TUBE_PART_LOAD BEGIN_TUBE_PART_TECH BEGIN_TUBE_PART_UNLOAD BEGIN_TUBE_TECH BEGIN_UNLOAD_DATA BEGIN_WZG_CALLS BEGIN_WZG_STAMM BEGIN_WZG3_ABSTREIFER BEGIN_WZG3_KASSETTEN BEGIN_WZG3_MATRIZEN BEGIN_WZG3_MT_GEHAEUSE BEGIN_WZG3_STEMPEL BEGIN_WZG3_WERKZEUG_ORT START_NOTIZ START_TEXT BD</Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close">ENDE_CONSUMPTION_TIMES ENDE_EINRICHTEPLAN_INFO ENDE_FERTIGUNG_AUFTRAG_TMP ENDE_GLOBAL_DATASET ENDE_LABEL_DATA ENDE_LASER_CUT_DYNAMIC_ADJUSTMENT ENDE_LASER_CUT_INFO ENDE_LASER_CUT_UNLOAD_DATA ENDE_LEAD_IN ENDE_LTT_CALLS ENDE_LTT_STAMM ENDE_MACHINE_LOAD_DATA ENDE_MACHINE_UNLOAD_DATA ENDE_MAGAZINE_POSITION_PROPERTIES ENDE_MICROJOINT ENDE_PART_UNLOAD ENDE_PARTORDER_IN_PRODORDER ENDE_PARTS_IN_PROGRAM ENDE_PARTS_IN_PROGRAM_POS ENDE_PARTS_PALLET_DATA ENDE_PARTS_UNLOAD_DATA ENDE_PIN_UNLOAD_DATA ENDE_PROGRAM_INFORMATION ENDE_PROGRAM_PROPERTIES ENDE_PROGRAMM ENDE_PTT ENDE_PUNCHING_TOOL_USAGE ENDE_SCP ENDE_SHEET_LOAD ENDE_SHEET_LOAD_DATA ENDE_SHEET_MEASURE ENDE_SHEET_PROCESS_INFORMATION ENDE_SHEET_REPOSIT ENDE_SHEET_TECH ENDE_SHEET_UNLOAD ENDE_SUCTION_CUP_CONFIGURATION ENDE_TOOL_MEASURE ENDE_TOOL_MOUNT_DATA ENDE_TOPS_DATA ENDE_TUBE_CORNER ENDE_TUBE_END_LEFT ENDE_TUBE_END_RIGHT ENDE_TUBE_LOAD ENDE_TUBE_PART_LOAD ENDE_TUBE_PART_TECH ENDE_TUBE_PART_UNLOAD ENDE_TUBE_TECH ENDE_UNLOAD_DATA ENDE_WZG_CALLS ENDE_WZG_STAMM ENDE_WZG3_ABSTREIFER ENDE_WZG3_KASSETTEN ENDE_WZG3_MATRIZEN ENDE_WZG3_MT_GEHAEUSE ENDE_WZG3_STEMPEL ENDE_WZG3_WERKZEUG_ORT STOP_NOTIZ STOP_TEXT ED</Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
+            <Keywords name="Keywords1">SET_METRIC SET_INCH SET_SPP</Keywords>
+            <Keywords name="Keywords2">TC_LASER_ON TC_LASER_OFF</Keywords>
+            <Keywords name="Keywords3">G01 G02 G03 G90 G91</Keywords>
+            <Keywords name="Keywords4">M30</Keywords>
+            <Keywords name="Keywords5"></Keywords>
+            <Keywords name="Keywords6"></Keywords>
+            <Keywords name="Keywords7"></Keywords>
+            <Keywords name="Keywords8"></Keywords>
+            <Keywords name="Delimiters">00&quot; 01 02&quot; 03&apos; 04 05&apos; 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000040" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="808000" bgColor="FFFFFF" fontStyle="2" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="8080C0" bgColor="FFFFFF" fontStyle="2" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="000000" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="000000" bgColor="FFFFFF" fontStyle="2" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontStyle="1" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="8080C0" bgColor="FFFFFF" fontStyle="2" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="008040" bgColor="FFFFFF" fontStyle="2" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="008080" bgColor="FFFFFF" fontStyle="2" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontStyle="2" nesting="2" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
